@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-@author: Fabio A. Seixas-Lopes
-@email: fl@uninova.pt
-
-Python Course Doctoral School final project
 Factory Production Scheduler: Cutlery Polishing Scenario
 
 API

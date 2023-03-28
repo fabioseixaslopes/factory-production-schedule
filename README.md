@@ -1,4 +1,4 @@
-## Python project developed for University course on Data Processing Automation
+## Python project developed for course on Data Processing Automation
 
 ```Factory Production Scheduler for a Cutlery Polishing Scenario```
 
